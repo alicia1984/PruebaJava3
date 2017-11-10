@@ -43,13 +43,13 @@ this.add(panel);
     panel.add(boton);
    panel.add(boton2);
     
-    label.setText("Atributo");
+    label.setText("Base De Datos");
     boton.setText("Conectar");
     boton2.setText("Desconectar");
     panel.setBackground(Color.orange);
     // paso  16 agregamos escuchadore al  boton
-   boton.addActionListener(new ActionListener()
-   
+  
+     boton.addActionListener(new ActionListener()
    
    {
     public void actionPerformed(ActionEvent evt)
