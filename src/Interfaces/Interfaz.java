@@ -33,7 +33,7 @@ public class Interfaz extends JFrame{
     {   
     panel = new JPanel();
     label = new JLabel();
-    text = new JTextField(20);
+    text = new JTextField(30);
     boton = new JButton();
      boton2 = new JButton(); 
     
