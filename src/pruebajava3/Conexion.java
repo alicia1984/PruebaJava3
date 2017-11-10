@@ -15,8 +15,7 @@ import Interfaces.Interfaz;
  * Programa: pruebajava3
  * Responsabilidad: atributos  tamaño para  la ventana  en java  para  realñizar  la  coneccion  con  la bd   en  php admin
  * atributos  de la  ventana 
- * @author LP 13
- * @author LP 13
+ 
  */
 public class Conexion {
 
