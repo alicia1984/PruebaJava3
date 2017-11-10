@@ -16,7 +16,6 @@ import java.sql.SQLException;
  * Responsabilidad: esta   clase  es para   declarar  los  objetos  de la coneccion con  el 
  * constructor  y  su  metodo iniciar  los  metodos y  su  definicionn  d e  esta 
  * para  realizar  la  coneccion  con bd 
- * @author LP 13
  * @author sala306
  */
 public class ConexionBD 
