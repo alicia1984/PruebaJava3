@@ -27,7 +27,7 @@ public class Conexion {
      w.setVisible(true);
      w.setBounds(0, 0, 400, 400);
      w.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+     w.setTitle("Tercera Evaluacion Sumativa");
 
 
 // TODO code application logic here

@@ -50,7 +50,7 @@ this.add(panel);
     // paso  16 agregamos escuchadore al  boton
   
      boton.addActionListener(new ActionListener()
-   
+  
    {
     public void actionPerformed(ActionEvent evt)
     {
