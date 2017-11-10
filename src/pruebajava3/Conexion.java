@@ -25,7 +25,7 @@ public class Conexion {
     public static void main(String[] args) {
      Interfaz w = new  Interfaz(); 
      w.setVisible(true);
-     w.setBounds(0, 0, 400, 400);
+     w.setBounds(0, 0, 300, 400);
      w.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
      w.setTitle("Tercera Evaluacion Sumativa");
 
