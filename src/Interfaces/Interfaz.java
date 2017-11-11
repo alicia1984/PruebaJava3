@@ -6,7 +6,7 @@
 package Interfaces;
 import javax.swing.*;
 import java.awt.*;
-import bd.ConexionBD ;
+import bd.ConexionBD;
 import java.sql.Connection;
 import java.awt.event.*;
 
@@ -26,14 +26,14 @@ public class Interfaz extends JFrame{
     JTextField text;
     JButton boton;
     JButton boton2;
-    //paso 15 creacion  de un  objeto tipo  coxion bd
+   
     ConexionBD con;
     
       public Interfaz() 
     {   
     panel = new JPanel();
     label = new JLabel();
-    text = new JTextField(30);
+    text = new JTextField(20);
     boton = new JButton();
      boton2 = new JButton(); 
     
